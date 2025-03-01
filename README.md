@@ -1,2 +1,2 @@
 # murfetch
-[fetch](/assets/fetch.png)
+<AImg src="fetch.png" alt="fetch"/>

@@ -1,2 +1,2 @@
 # murfetch
-<AImg src="fetch.png" alt="fetch"/>
+<Img src="fetch.png" alt="fetch"/>
